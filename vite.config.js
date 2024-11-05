@@ -6,3 +6,4 @@ export default defineConfig({
   base: "/(controle01-React-js-partie02)/",
   plugins: [react()],
 })
+console.log('Vite configuration loaded');     
